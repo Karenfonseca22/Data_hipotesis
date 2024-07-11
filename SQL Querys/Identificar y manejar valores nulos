@@ -1,4 +1,5 @@
 -- Nulos en tabla de competencia de Spotify
+
 ```sql
 SELECT
   COUNT(*) AS cantidad_nulos
