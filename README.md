@@ -136,5 +136,4 @@ Se realizaron graficas de dispersión en las que se podía ver la correlación d
 
 🟩 Presentar resultados
 
-: link Presentación: https://www.figma.com/proto/HdDJZUsz1jTfMQA652JmdI/Hip%C3%B3tesis-Proyecto-2?page-id=0%3A1&node-id=1-9&viewport=-1159%2C-10%2C1&t=EgfiJ1lsiAtfAPom-1&scaling=contain&content-scaling=fixed
-My favorite search engine is [Duck Duck Go](https://www.figma.com/design/HdDJZUsz1jTfMQA652JmdI/Hip%C3%B3tesis-Proyecto-2?node-id=0-1&t=3Nh8eGoVWkRmncUO-1).
+Link de presentacion [Analisis_hipoteis](https://www.figma.com/design/HdDJZUsz1jTfMQA652JmdI/Hip%C3%B3tesis-Proyecto-2?node-id=0-1&t=3Nh8eGoVWkRmncUO-1).
