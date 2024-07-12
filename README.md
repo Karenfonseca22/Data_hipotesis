@@ -131,5 +131,9 @@ Se realizaron graficas de dispersión en las que se podía ver la correlación d
 
 🟧 Resumir información en un dashboard o reporte
 
+![image](https://github.com/user-attachments/assets/cd3ac0f4-f080-41e6-89b5-d30f065b94dd)
+
+
 🟩 Presentar resultados
 
+Presentación: https://www.figma.com/proto/HdDJZUsz1jTfMQA652JmdI/Hip%C3%B3tesis-Proyecto-2?page-id=0%3A1&node-id=1-9&viewport=-1159%2C-10%2C1&t=EgfiJ1lsiAtfAPom-1&scaling=contain&content-scaling=fixed
