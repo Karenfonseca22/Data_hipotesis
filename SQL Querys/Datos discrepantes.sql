@@ -1,5 +1,5 @@
 ## Datos discrepantes
---- Formula para pasar de STRING A INTEGER
+--- Formula para pasar de STRING A INTEGER con CAST
 SELECT *,
 IF
   (REGEXP_CONTAINS(streams, r'^[0-9]+$'), CAST(streams AS INT64), NULL) AS stream_limpio
