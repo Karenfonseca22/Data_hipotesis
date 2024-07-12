@@ -136,4 +136,4 @@ Se realizaron graficas de dispersión en las que se podía ver la correlación d
 
 🟩 Presentar resultados
 
-Link de presentacion [Analisis_hipoteis](https://www.figma.com/design/HdDJZUsz1jTfMQA652JmdI/Hip%C3%B3tesis-Proyecto-2?node-id=0-1&t=3Nh8eGoVWkRmncUO-1).
+Link de presentacion [Analisis_hipotesis](https://www.figma.com/design/HdDJZUsz1jTfMQA652JmdI/Hip%C3%B3tesis-Proyecto-2?node-id=0-1&t=3Nh8eGoVWkRmncUO-1).
