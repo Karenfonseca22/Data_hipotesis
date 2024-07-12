@@ -46,13 +46,20 @@ Se realizaron graficas de dispersión en las que se podía ver la correlación d
 ### Hipotesis 2: Las canciones más populares en el ranking de Spotify también tienen un comportamiento similar en otras plataformas como Deezer.
 
 > Correlación de Pearson entre Spotify Charts con Deezer charts: 0.72
-> Correlación de Pearson entre Spotify Charts con 
+> 
+> Correlación de Pearson entre Spotify Charts con Shazam charts: 0.71
+> 
+> Correlación de Pearson entre Spotify Charts con Apple charts: 0.71
 
-**Resultado: No hay correlación**
+**Resultado: Si hay correlación**
 
 ![image](https://github.com/user-attachments/assets/971a1483-f4ce-439e-a614-bf1591987c85)
 
 ### Hipotesis 3: La presencia de una canción en un mayor número de playlists se relaciona con un mayor número de streams.
+
+> Correlación de Pearson entre Total de participacion en playlist con reproducciones: 0.78
+
+**Resultado: Si hay correlación**
 
 ![image](https://github.com/user-attachments/assets/7377c5d7-d80b-4e90-b2dc-c935fb72d282)
 
@@ -60,20 +67,66 @@ Se realizaron graficas de dispersión en las que se podía ver la correlación d
 
 > Correlación de Pearson entre cantidad de canciones por artista: 0.78
 
-**Resultado: No hay correlación**
+**Resultado: Si hay correlación**
 
 ![image](https://github.com/user-attachments/assets/da60c08c-d086-4733-b517-73694784063b)
 
 ### Hipotesis 5: Las características de la canción influyen en el éxito en términos de cantidad de streams en Spotify.
 
-Correlación REFUTADA
+**CARACTERISTICA VALANCE**
+
+> Correlación de Pearson entre el porcentaje de valance y streams (reproducciones): -0.04
+
+***Resultado: No hay correlación***
 
 ![image](https://github.com/user-attachments/assets/0ee95365-2507-47f9-bde8-b2ce109267f7)
+
+**CARACTERISTICA SPEECHENESS**
+
+> Correlación de Pearson entre el porcentaje de speechnees y streams (reproducciones): -0.11
+
+***Resultado: No hay correlación***
+
 ![image](https://github.com/user-attachments/assets/052abee5-ae75-4b61-ae5a-90b1891420ed)
+
+**CARACTERISTICA LIVENESS**
+
+> Correlación de Pearson entre el porcentaje de liveness y streams (reproducciones): -0.04
+
+***Resultado: No hay correlación***
+
 ![image](https://github.com/user-attachments/assets/02a895f5-7a20-4dac-9234-7d4d5ee298a2)
+
+**CARACTERISTICA ACOUSTIC**
+
+> Correlación de Pearson entre el porcentaje de acoustic y streams (reproducciones): -0.004
+
+***Resultado: No hay correlación***
+
 ![image](https://github.com/user-attachments/assets/447e0ae8-3bb4-4c36-a84f-fe2bb8b9649d)
+
+**CARACTERISTICA INSTRUMENTALNESS**
+
+> Correlación de Pearson entre el porcentaje de instrumentalness y streams (reproducciones): -0.04
+
+***Resultado: No hay correlación***
+
 ![image](https://github.com/user-attachments/assets/64f3196a-2655-4bef-ad48-a61dd399ab1f)
+
+**CARACTERISTICA ENERGY**
+
+> Correlación de Pearson entre el porcentaje de energy y streams (reproducciones): -0.02
+
+***Resultado: No hay correlación***
+
 ![image](https://github.com/user-attachments/assets/d4082d5d-d5aa-434d-867b-8cdd48b084a7)
+
+**CARACTERISTICA DANCEABILITY**
+
+> Correlación de Pearson entre el porcentaje de danceability y streams (reproducciones): -0.1
+
+***Resultado: No hay correlación***
+
 ![image](https://github.com/user-attachments/assets/7a22b137-a225-4011-8ec9-0e7532024ccb)
 
 🟧 Resumir información en un dashboard o reporte
